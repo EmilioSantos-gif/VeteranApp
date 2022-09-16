@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GuerraIraqAppDBModelStoreContainer" CdmEntityContainer="GuerraIraqAppDBEntities">
+    <EntitySetMapping Name="Veterano">
+      <EntityTypeMapping TypeName="GuerraIraqAppDBModel.Veterano">
+        <MappingFragment StoreEntitySet="Veterano">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Cedula" ColumnName="Cedula" />
+          <ScalarProperty Name="Nombres" ColumnName="Nombres" />
+          <ScalarProperty Name="Apellidos" ColumnName="Apellidos" />
+          <ScalarProperty Name="FechaNacimiento" ColumnName="FechaNacimiento" />
+          <ScalarProperty Name="FechaIngreso" ColumnName="FechaIngreso" />
+          <ScalarProperty Name="Rango" ColumnName="Rango" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="RemotoLocal" ColumnName="RemotoLocal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SPInsertVeterano" FunctionName="GuerraIraqAppDBModel.Store.SPInsertVeterano" />
+    <FunctionImportMapping FunctionImportName="SPUpdateRemoto" FunctionName="GuerraIraqAppDBModel.Store.SPUpdateRemoto" />
+  </EntityContainerMapping>
+</Mapping>

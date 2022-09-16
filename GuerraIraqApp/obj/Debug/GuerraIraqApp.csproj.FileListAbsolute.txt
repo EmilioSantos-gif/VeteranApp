@@ -1,0 +1,17 @@
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\bin\Debug\GuerraIraqAppDB.mdf
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\bin\Debug\GuerraIraqAppDB_log.ldf
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\bin\Debug\GuerraIraqApp.exe.config
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\bin\Debug\GuerraIraqApp.exe
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\bin\Debug\GuerraIraqApp.pdb
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\bin\Debug\EntityFramework.dll
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\bin\Debug\EntityFramework.xml
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\obj\Debug\GuerraIraqApp.csproj.AssemblyReference.cache
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\obj\Debug\GuerraIraqApp.frmPrincipal.resources
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\obj\Debug\GuerraIraqApp.Properties.Resources.resources
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\obj\Debug\GuerraIraqApp.csproj.GenerateResource.cache
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\obj\Debug\GuerraIraqApp.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\obj\Debug\GuerraIraqApp.csproj.CopyComplete
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\obj\Debug\GuerraIraqApp.exe
+C:\Users\Emilio\Source\Repos\GuerraIraqApp\GuerraIraqApp\obj\Debug\GuerraIraqApp.pdb
